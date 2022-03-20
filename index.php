@@ -3,12 +3,13 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="normalize.css">
     <title></title>
   </head>
   <body>
     <div class="main">
       <div class="main__ellipse main__ellipse-top">
-    
+
       </div>
       <div class="main__ellipse main__ellipse-bottom">
 
